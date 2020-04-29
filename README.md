@@ -23,6 +23,14 @@
 
 Nesse desafio, foi proposto continuar desenvolvendo a aplicação que irá armazenar repositórios, que você já foi desenvolvido no [desafio](https://github.com/tiagofsv95/desafio-conceitos-node) utilizando o Node.js.
 
+Para executar o projeto e necessario ter o repositorio citado acima clonado e rodando, pois **é o backend desta aplicação**. Depois basta dar um `git clone https://github.com/tiagofsv95/desafio-conceitos-reactjs.git` no seu console e depois `yarn` para instalar as dependencias. Depois de instalar todas as dependencias basta executar `yarn start`.
+
+## Ferramentas utilizadas na aplicação
+
+-**react**;
+
+-**axios**;
+
 ### Funcionalidades da aplicação
 
 - **`Listar os repositórios da sua API`**: Deve ser capaz de criar uma lista com o campo **title** de todos os repositórios que estão cadastrados na sua API.
